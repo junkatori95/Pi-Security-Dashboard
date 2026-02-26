@@ -1,0 +1,6 @@
+.env
+*.db
+*.pkl
+__pycache__/
+logs/
+*.jpg
